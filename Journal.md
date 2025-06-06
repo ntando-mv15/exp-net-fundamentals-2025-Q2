@@ -1,3 +1,6 @@
+## Day 03 - Packet Tracer Lab
+
+In this lab, I set up a basic network in Packet Tracer with a **switch**, **router**, **DHCP server**, and **PC**. I configured static IPs for the router and server, enabled the **DHCP service** on the server, and observed how the PC requested and received an IP address automatically. This helped me understand how DHCP works, how devices communicate using **broadcasts**, and how the server responds by assigning IPs. I also saw how tools like `ipconfig renew` help verify IP assignment and troubleshoot network issues.
 
 
 ## Day 02 - IP Management
