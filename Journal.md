@@ -1,3 +1,8 @@
+## Day 04 - Windows Networking Tools
+
+I’ve explored various Windows networking tools on my Windows server, including **ping**, **tracert**, **nslookup**, **netstat** and **route** to better understand network troubleshooting and configuration. I learned how to analyze each of the command outputs and how I would use them to solve networking related issues. These tools have helped me grasp fundamental networking concepts and practical troubleshooting techniques. 
+
+
 ## Day 03 - Packet Tracer Lab
 
 In this lab, I set up a basic network in Packet Tracer with a **switch**, **router**, **DHCP server**, and **PC**. I configured static IPs for the router and server, enabled the **DHCP service** on the server, and observed how the PC requested and received an IP address automatically. This helped me understand how DHCP works, how devices communicate using **broadcasts**, and how the server responds by assigning IPs. I also saw how tools like `ipconfig renew` help verify IP assignment and troubleshoot network issues.

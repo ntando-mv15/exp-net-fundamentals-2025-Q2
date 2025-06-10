@@ -71,7 +71,7 @@ ipconfig /renew
 * Server asked for an IP.
 * Got assigned: `192.168.0.101`
 
-![](<Screenshot 2025-06-04 182621.png>)
+![](assets/ip_renew.png)
 
 ---
 
