@@ -1,3 +1,8 @@
+## Day 05 - Windows Firewall Rules
+
+I explored **Windows Firewall** by understanding how it controls network traffic using rules for inbound and outbound connections. On an **AWS Windows Server**, I set up a **Python web server on port 8000**, created an inbound rule to allow traffic, and verified access using the **curl command** from my local machine. Additionally, I had to open **port 8000 in AWS Security Group settings**, ensuring both cloud and host-level firewall rules aligned. This helped me grasp **how firewall rules interact with cloud security settings** and how to configure them to controll access to the network.
+
+
 ## Day 04 - Windows Networking Tools
 
 I’ve explored various Windows networking tools on my Windows server, including **ping**, **tracert**, **nslookup**, **netstat** and **route** to better understand network troubleshooting and configuration. I learned how to analyze each of the command outputs and how I would use them to solve networking related issues. These tools have helped me grasp fundamental networking concepts and practical troubleshooting techniques. 
