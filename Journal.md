@@ -1,3 +1,7 @@
+## Day 04 - Linux Networking
+
+I deepened my understanding of **Linux networking**, covering essential tools like `/etc/hosts`, `dig`, `netstat`, `curl`, and `tcpdump` for troubleshooting and configuration. I explored how `resolvectl` can be used to change DNS settings, successfully switching my Ubuntu server from AWS’s default DNS to Cloudflare’s DNS. 
+
 ## Day 05 - Windows Firewall Rules
 
 I explored **Windows Firewall** by understanding how it controls network traffic using rules for inbound and outbound connections. On an **AWS Windows Server**, I set up a **Python web server on port 8000**, created an inbound rule to allow traffic, and verified access using the **curl command** from my local machine. Additionally, I had to open **port 8000 in AWS Security Group settings**, ensuring both cloud and host-level firewall rules aligned. This helped me grasp **how firewall rules interact with cloud security settings** and how to configure them to controll access to the network.
